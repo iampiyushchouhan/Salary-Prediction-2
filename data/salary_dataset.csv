@@ -1,0 +1,101 @@
+job_title,experience_years,education,skills_level,company_type,location,industry,work_mode,salary_inr
+Software Engineer,2,Bachelor,Intermediate,IT Services,Bangalore,IT Services,Office,650000
+Senior Software Engineer,5,Master,Advanced,Product,Bangalore,Product,Hybrid,1800000
+Data Scientist,3,Master,Advanced,Fintech,Mumbai,Fintech,Remote,1200000
+Full Stack Developer,4,Bachelor,Advanced,Startup,Hyderabad,IT Services,Office,800000
+Product Manager,6,Master,Expert,Product,Delhi,Product,Hybrid,2200000
+DevOps Engineer,3,Bachelor,Advanced,IT Services,Pune,IT Services,Office,950000
+UI/UX Designer,2,Bachelor,Intermediate,Startup,Bangalore,Product,Remote,550000
+QA Engineer,3,Bachelor,Intermediate,IT Services,Chennai,IT Services,Office,480000
+Business Analyst,4,Master,Advanced,Consulting,Mumbai,Consulting,Hybrid,850000
+Project Manager,7,Master,Expert,IT Services,Delhi,IT Services,Office,1600000
+Software Engineer,1,Bachelor,Beginner,IT Services,Hyderabad,IT Services,Office,420000
+Senior Software Engineer,8,Master,Expert,Product,Bangalore,Product,Office,2500000
+Data Scientist,5,PhD,Expert,Product,Bangalore,Product,Remote,2000000
+Full Stack Developer,3,Bachelor,Intermediate,E-commerce,Mumbai,E-commerce,Hybrid,750000
+Software Engineer,3,Bachelor,Intermediate,Fintech,Bangalore,Fintech,Office,850000
+DevOps Engineer,4,Master,Advanced,Product,Pune,Product,Hybrid,1300000
+UI/UX Designer,3,Master,Advanced,Product,Delhi,Product,Office,900000
+QA Engineer,2,Bachelor,Intermediate,IT Services,Bangalore,IT Services,Office,520000
+Business Analyst,3,Bachelor,Advanced,Healthcare,Chennai,Healthcare,Remote,650000
+Project Manager,5,Master,Advanced,Fintech,Mumbai,Fintech,Office,1400000
+Software Engineer,0,Bachelor,Beginner,IT Services,Chennai,IT Services,Office,350000
+Senior Software Engineer,6,Bachelor,Advanced,IT Services,Bangalore,IT Services,Office,1400000
+Data Scientist,2,Master,Intermediate,Startup,Hyderabad,Product,Remote,750000
+Full Stack Developer,5,Bachelor,Expert,Product,Bangalore,Product,Hybrid,1600000
+Software Engineer,4,Master,Advanced,E-commerce,Delhi,E-commerce,Office,900000
+DevOps Engineer,2,Bachelor,Intermediate,Startup,Pune,IT Services,Remote,650000
+UI/UX Designer,4,Bachelor,Advanced,E-commerce,Mumbai,E-commerce,Hybrid,750000
+QA Engineer,5,Bachelor,Advanced,IT Services,Bangalore,IT Services,Office,680000
+Business Analyst,2,Master,Intermediate,Manufacturing,Ahmedabad,Manufacturing,Office,500000
+Project Manager,8,Master,Expert,Consulting,Delhi,Consulting,Hybrid,1800000
+Software Engineer,1.5,Bachelor,Beginner,IT Services,Pune,IT Services,Office,480000
+Senior Software Engineer,7,Master,Expert,Fintech,Mumbai,Fintech,Office,2100000
+Data Scientist,4,Master,Advanced,Healthcare,Bangalore,Healthcare,Remote,1100000
+Full Stack Developer,2,Bachelor,Intermediate,Startup,Chennai,Product,Office,580000
+Software Engineer,5,Bachelor,Advanced,IT Services,Hyderabad,IT Services,Hybrid,950000
+DevOps Engineer,6,Master,Expert,Product,Bangalore,Product,Office,1750000
+UI/UX Designer,1,Bachelor,Beginner,IT Services,Delhi,IT Services,Remote,380000
+QA Engineer,4,Bachelor,Advanced,E-commerce,Pune,E-commerce,Office,580000
+Business Analyst,5,Master,Advanced,Fintech,Bangalore,Fintech,Hybrid,1000000
+Project Manager,6,Master,Advanced,Product,Mumbai,Product,Office,1900000
+Software Engineer,2.5,Bachelor,Intermediate,Startup,Bangalore,Product,Remote,620000
+Senior Software Engineer,4,Bachelor,Advanced,IT Services,Chennai,IT Services,Office,1100000
+Data Scientist,6,PhD,Expert,Product,Delhi,Product,Office,2400000
+Full Stack Developer,3.5,Master,Advanced,Fintech,Mumbai,Fintech,Hybrid,1050000
+Software Engineer,6,Master,Advanced,Product,Bangalore,Product,Office,1650000
+DevOps Engineer,1,Bachelor,Beginner,IT Services,Hyderabad,IT Services,Office,450000
+UI/UX Designer,5,Master,Expert,Product,Bangalore,Product,Remote,1200000
+QA Engineer,1.5,Bachelor,Intermediate,IT Services,Chennai,IT Services,Office,420000
+Business Analyst,6,Master,Expert,Consulting,Delhi,Consulting,Office,1300000
+Project Manager,4,Bachelor,Advanced,E-commerce,Pune,E-commerce,Hybrid,1200000
+Software Engineer,3.5,Bachelor,Advanced,Healthcare,Mumbai,Healthcare,Remote,780000
+Senior Software Engineer,9,Master,Expert,Product,Bangalore,Product,Hybrid,2800000
+Data Scientist,1,Master,Intermediate,Startup,Hyderabad,Product,Office,550000
+Full Stack Developer,6,Bachelor,Expert,IT Services,Delhi,IT Services,Office,1300000
+Software Engineer,7,Master,Expert,Fintech,Bangalore,Fintech,Office,1950000
+DevOps Engineer,5,Bachelor,Advanced,E-commerce,Mumbai,E-commerce,Hybrid,1150000
+UI/UX Designer,2.5,Bachelor,Intermediate,Healthcare,Chennai,Healthcare,Remote,520000
+QA Engineer,6,Master,Advanced,IT Services,Bangalore,IT Services,Office,750000
+Business Analyst,1,Bachelor,Beginner,IT Services,Pune,IT Services,Office,380000
+Project Manager,10,Master,Expert,Product,Delhi,Product,Office,2500000
+Software Engineer,8,Bachelor,Expert,Product,Mumbai,Product,Hybrid,2100000
+Senior Software Engineer,3,Bachelor,Advanced,Startup,Bangalore,Product,Remote,950000
+Data Scientist,7,PhD,Expert,Fintech,Bangalore,Fintech,Office,2600000
+Full Stack Developer,1.5,Bachelor,Intermediate,IT Services,Hyderabad,IT Services,Office,520000
+Software Engineer,4.5,Master,Advanced,Consulting,Chennai,Consulting,Hybrid,980000
+DevOps Engineer,7,Master,Expert,Product,Pune,Product,Office,1850000
+UI/UX Designer,6,Bachelor,Expert,E-commerce,Delhi,E-commerce,Remote,980000
+QA Engineer,3.5,Bachelor,Advanced,Healthcare,Mumbai,Healthcare,Office,620000
+Business Analyst,7,Master,Expert,Product,Bangalore,Product,Hybrid,1450000
+Project Manager,3,Bachelor,Advanced,IT Services,Chennai,IT Services,Office,950000
+Software Engineer,9,Master,Expert,Product,Bangalore,Product,Office,2300000
+Senior Software Engineer,2,Bachelor,Intermediate,IT Services,Hyderabad,IT Services,Office,780000
+Data Scientist,3.5,Master,Advanced,E-commerce,Delhi,E-commerce,Remote,1050000
+Full Stack Developer,7,Bachelor,Expert,Fintech,Mumbai,Fintech,Office,1750000
+Software Engineer,1,Bachelor,Beginner,Startup,Pune,Product,Remote,420000
+DevOps Engineer,8,Master,Expert,Product,Bangalore,Product,Hybrid,2050000
+UI/UX Designer,3.5,Master,Advanced,IT Services,Chennai,IT Services,Office,680000
+QA Engineer,7,Bachelor,Advanced,E-commerce,Delhi,E-commerce,Hybrid,780000
+Business Analyst,4.5,Bachelor,Advanced,Manufacturing,Ahmedabad,Manufacturing,Office,650000
+Project Manager,9,Master,Expert,Fintech,Mumbai,Fintech,Office,2200000
+Software Engineer,5.5,Bachelor,Advanced,Healthcare,Bangalore,Healthcare,Remote,1080000
+Senior Software Engineer,10,Master,Expert,Product,Delhi,Product,Office,3200000
+Data Scientist,8,PhD,Expert,Product,Bangalore,Product,Remote,2900000
+Full Stack Developer,4.5,Master,Advanced,Product,Mumbai,Product,Hybrid,1450000
+Software Engineer,2.5,Bachelor,Intermediate,Education,Chennai,Education,Office,480000
+DevOps Engineer,3.5,Bachelor,Advanced,Startup,Hyderabad,Product,Office,750000
+UI/UX Designer,7,Master,Expert,Product,Bangalore,Product,Office,1350000
+QA Engineer,8,Bachelor,Advanced,IT Services,Pune,IT Services,Hybrid,850000
+Business Analyst,3.5,Master,Advanced,E-commerce,Mumbai,E-commerce,Remote,750000
+Project Manager,2,Bachelor,Intermediate,IT Services,Delhi,IT Services,Office,720000
+Software Engineer,6.5,Master,Advanced,Fintech,Bangalore,Fintech,Office,1580000
+Senior Software Engineer,1,Bachelor,Intermediate,Startup,Chennai,Product,Remote,550000
+Data Scientist,9,PhD,Expert,Product,Mumbai,Product,Office,3100000
+Full Stack Developer,8,Bachelor,Expert,Product,Bangalore,Product,Hybrid,1950000
+Software Engineer,10,Master,Expert,Product,Delhi,Product,Office,2650000
+DevOps Engineer,9,Master,Expert,Fintech,Mumbai,Fintech,Office,2250000
+UI/UX Designer,8,Bachelor,Expert,Product,Bangalore,Product,Remote,1450000
+QA Engineer,9,Master,Advanced,Product,Pune,Product,Office,1150000
+Business Analyst,8,Master,Expert,Consulting,Delhi,Consulting,Hybrid,1650000
+Project Manager,12,Master,Expert,Product,Bangalore,Product,Office,2800000
