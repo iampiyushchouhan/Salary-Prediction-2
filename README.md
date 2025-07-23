@@ -1,4 +1,35 @@
-# 💼 Employee Salary Predictor
+<div align="center">
+  
+# ***💼 Employee Salary Predictor Using Machine learning***  
+## 🚀 AI-Powered Salary Prediction Tool for Indian Tech Industry
+
+</div>
+
+## **🚀 Deployment**  
+
+<div align="center">
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-100000?style=for-the-badge&logo=github&logoColor=white)](https://iampiyushchouhan.github.io/Salary-Prediction-2/)  
+### 🌐 **Static Web Version** hosted on GitHub Pages
+🔗 [Visit GitHub Pages Deployment](https://iampiyushchouhan.github.io/Salary-Prediction-2/) **(👈Refer this)**  
+#### 💰 **Currency:** Salary prediction in **Indian Rupees (₹)**
+#### ✅ **Recommended** for most users due to simplicity and regional relevance.
+
+---
+
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://salary-prediction-2.streamlit.app/)  
+### ⚡ **Interactive App** powered by Streamlit  
+🔗 [Visit Streamlit Deployment](https://salary-prediction-2.streamlit.app/)  
+#### 💵 **Currency:** Salary prediction in **US Dollars ($)**  
+#### 🎛️ Ideal for exploring dynamic inputs and real-time predictions.
+
+</div>
+
+> 💡 Tip: For a smoother experience and region-specific insights, we recommend using the **GitHub Pages version**.
+
+---
+
+## 🚀 AI-Powered Salary Prediction Tool for Indian Tech Industry
 
 <div align="center">
   
@@ -9,9 +40,6 @@
 [![Status](https://img.shields.io/badge/Github--Repo-Active-success.svg)](https://github.com/iampiyushchouhan/Salary-Prediction.git)
 
 </div>
-
----
-## 🚀 AI-Powered Salary Prediction Tool for Indian Tech Industry
 
  ## 🎯 Overview 
 The Employee Salary Predictor is an advanced AI-powered web application that predicts salary ranges for tech professionals in India. Using machine learning algorithms and comprehensive market data, it analyzes multiple factors including experience, skills, company type, location, and industry to provide accurate salary predictions.
@@ -104,6 +132,57 @@ The Employee Salary Predictor is an advanced AI-powered web application that pre
 
 - 🌐**GitHub Pages** – Static site hosting
 [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=github&logoColor=white)](https://pages.github.com/)  
+
+---
+## 📦 Python Dependencies
+
+This project leverages a robust set of libraries for machine learning, data processing, visualization, and deployment. Below is a categorized breakdown of the core dependencies:
+
+```bash
+#🧠 Core ML Libraries
+pandas==2.0.3 
+numpy==1.24.3 
+scikit-learn==1.3.0 
+matplotlib==3.7.2 
+seaborn==0.12.2 
+
+#🌐 Web API Framework
+Flask==2.3.2 
+Flask-CORS==4.0.0 
+
+# 🔍 Data Processing
+scipy==1.11.1 
+joblib==1.3.1 
+
+# 🚀 Optional: Advanced ML Libraries
+xgboost==1.7.6 
+lightgbm==4.0.0  
+
+#📊 Visualization
+plotly==5.15.0  
+
+#🛠️ Utilities
+requests==2.31.0 
+python-dotenv==1.0.0  
+
+#🧪 Development Tools
+pytest==7.4.0 
+jupyter==1.0.0 
+ipykernel==6.24.0  
+
+#💾 Model Persistence
+pickle-mixin==1.0.2  
+
+#🌐 Production Server
+gunicorn==23.0.0
+```
+
+
+### ⚙️ System Requirements
+- **Python** ≥ 3.8  
+- **pip** ≥ 21.0
+
+### 📄 To install all dependencies, refer to the [requirements.txt](python/requirements.txt) file.
 
 ---
 
@@ -248,3 +327,167 @@ Content-Type: application/json
 }
 ```
 ---
+
+## 🎨 UI Screenshots
+
+### 🖥️ GitHub Pages (Predict Salary in ₹)
+<p align="center">
+  <img src="screenshots/UI-githubpage.png" alt="GitHub Page UI" width="700">
+</p>
+
+### 🌐 Streamlit App (Predict Salary in $)
+<p align="center">
+  <img src="screenshots/Ui-streamlit.png" alt="Streamlit UI" width="700">
+</p>
+
+---
+
+## 📊 Model Training & Evaluation Results
+
+<p align="center">
+  <img src="screenshots/model_evaluation.png" alt="Model Evaluation Results" width="750">
+</p>
+
+---
+
+# 📊 Feature Engineering
+```python
+# Key features used in the model
+FEATURES = [
+    'job_title',        # Job role/position
+    'experience_years', # Years of professional experience
+    'education',        # Educational qualification
+    'skills_level',     # Technical skill proficiency
+    'company_type',     # Type of company (Product/Service/Startup)
+    'location',         # Work location
+    'industry',         # Industry sector
+    'work_mode'         # Work arrangement (Office/Remote/Hybrid)
+]
+```
+## 🎯 Feature Importance Analysis
+
+1. **Experience Years (78.5%)** – Most significant factor  
+2. **Skills Level (7.2%)** – Technical proficiency impact  
+3. **Education (6.8%)** – Educational background influence  
+4. **Job Title (5.1%)** – Role-specific salary variations  
+5. **Industry (1.2%)** – Industry-based differences  
+6. **Location (0.8%)** – Geographic salary variations  
+7. **Company Type (0.3%)** – Company size/type impact  
+8. **Work Mode (0.1%)** – Remote/office preference effect
+
+
+## 🔄 Model Training Pipeline
+
+- **Data Collection** - Comprehensive salary dataset
+- **Data Preprocessing** - Cleaning, encoding, scaling
+- **Feature Engineering** - Creating meaningful features
+- **Model Selection** - Comparing multiple algorithms
+- **Hyperparameter Tuning** - Grid search optimization
+- **Cross Validation** - 5-fold validation for reliability
+- **Model Evaluation** - Multiple metrics assessment
+- **Model Serialization** - Saving trained model
+---
+# 🤝 Contributing
+
+We welcome contributions from the community! Here's how you can help:
+
+### 🌟 Ways to Contribute
+
+- 🐛 **Bug Reports** – Find and report bugs  
+- 💡 **Feature Requests** – Suggest new features  
+- 🔧 **Code Contributions** – Submit pull requests  
+- 📚 **Documentation** – Improve documentation  
+- 🧪 **Testing** – Add test cases  
+- 🎨 **UI/UX** – Enhance user interface
+
+### **📋 Contribution Guidelines :-**
+
+#### **🔀 Fork the Repository**
+```bash
+git fork https://github.com/yourusername/salary-predictor.git
+cd salary-predictor
+```
+#### **🌱 Create a Feature Branch**
+```bash
+git fork https://github.com/yourusername/salary-predictor.git
+cd salary-predictor
+```
+
+#### **✏️ Make Changes**
+- Follow PEP 8 style guide for Python
+- Add tests for new features
+- Update documentation as needed
+
+#### **✅ Commit Changes**
+```bash
+git commit -m "Add amazing feature"
+```
+#### **🚀 Push to Branch**
+```bash
+git push origin feature/amazing-feature
+```
+#### **📬Open Pull Request**
+
+- Describe your changes clearly
+- Reference any related issues
+- Add screenshots for UI changes
+---
+# **📄 License**
+
+This project is licensed under the [MIT License](LICENSE) – see the LICENSE file for details.
+
+---
+# **📍 About Me**
+
+- 🔭 Currently working on AI/ML projects in fintech
+- 🌱 Learning advanced deep learning techniques
+- 👯 Looking to collaborate on open-source ML projects
+- 💬 Ask me about Python, Machine Learning, and Web Development
+
+# **🏆 Other Projects**
+
+### 🩺 TB Detection from Chest X-Ray Images
+
+[![TB Detection](https://img.shields.io/badge/GitHub-TB_Detection-blue?logo=github)](https://github.com/iampiyushchouhan/tb-detection.git)
+
+A deep learning-based project that uses convolutional neural networks (CNNs) to detect Tuberculosis from chest X-ray images.  
+- 📁 Clean dataset preprocessing pipeline  
+- 🧠 Model training and evaluation metrics  
+- 📊 Visualizations of predictions and performance  
+- 🚀 Deployment-ready structure for further integration
+
+Explore the repo to see how AI can assist in medical diagnostics!
+---
+# **🌟 Special Thanks**
+
+- All contributors who helped improve this project
+- The open-source community for amazing tools and libraries
+- Beta testers who provided valuable feedback
+
+---
+<div align="center">
+
+# **👨‍💻 Author**  
+### ***Piyush Chouhan***  
+ 
+**[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iampiyushchouhan/Salary-Prediction-2.git)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iampiyushchouhan)**
+
+ ### ***Passionate about using AI to solve real-world problems and make technology accessible to everyone.***
+
+
+
+### **🚀 Useful Links**  
+**🔗 [Live Demo](https://iampiyushchouhan.github.io/Salary-Prediction-2/)
+📖 [Documentation](https://github.com/iampiyushchouhan/Salary-Prediction-2#readme)
+🐛 [Report Bug](https://github.com/iampiyushchouhan/Salary-Prediction-2/issues)
+💡 [Request Feature](https://github.com/iampiyushchouhan/Salary-Prediction-2/issues)**
+
+⭐ **Star this repository if you found it helpful!**
+
+---
+
+Made with ❤️ by **Piyush Chouhan**  
+_Last Updated: December 2024_
+
+</div>
