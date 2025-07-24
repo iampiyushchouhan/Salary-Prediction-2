@@ -17,9 +17,9 @@
 
 ---
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://salary-prediction-2.streamlit.app/)  
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://salary-prediction-tool.streamlit.app/)  
 ### ⚡ **Interactive App** powered by Streamlit  
-🔗 [Visit Streamlit Deployment](https://salary-prediction-2.streamlit.app/)  
+🔗 [Visit Streamlit Deployment](https://salary-prediction-tool.streamlit.app/)  
 #### 💵 **Currency:** Salary prediction in **US Dollars ($)**  
 #### 🎛️ Ideal for exploring dynamic inputs and real-time predictions.
 
